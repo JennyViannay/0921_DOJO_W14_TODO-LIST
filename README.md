@@ -5,7 +5,6 @@
 ### Une todo type comporte :
 - un titre 
 - une description
-- une deadline (date + heure)
 - une priorité (low, medium, high)
 - un état (todo, wip, done)
 
@@ -13,19 +12,16 @@
 - inserer quelques todos : 
   - title : Cadeau maman
   - description : https://www.idealista.it/fr/immobile/18024865/
-  - deadline : 24/12/2021 à 9h
   - priorité : high
-  - état : todo
+  - complété : todo
   
   - title : Veille technique sur Redux
   - description : https://redux.js.org/
-  - deadline : 22/12/2021 à 9h
   - priorité : low
   - état : wip
   
   - title : RDV client 
   - description : https://meet.google.com/adj-afwf-jmi
-  - deadline : 08/12/2021 à 9h30
   - priorité : medium
   - état : done
 
