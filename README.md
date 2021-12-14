@@ -1,6 +1,6 @@
 # TODO List from Scratch - DOJO W14 
 
-## Modéliser une base de données qui permettrait d'administrer une todo liste par catégories et pas priorité
+## Modéliser une base de données qui permettrait d'administrer une todo liste par état et par priorité
 
 ### Une todo type comporte :
 - un titre 
